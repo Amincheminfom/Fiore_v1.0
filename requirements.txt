@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+tqdm
+pillow
+joblib
+scikit-learn
+statsmodels
+optuna
+xgboost
+rdkit-pypi
+mordred
+customtkinter
